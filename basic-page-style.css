@@ -1,0 +1,12 @@
+h1{ text-align: center; font-family: 'Monoton', cursive; font-size: 69px; border: solid; background-color: #a3eed3; width: device-width;}
+.menu{ margin-top: 0%; background-color: #ffa7a7; width: 20%; border: solid black; position:absolute; padding:0px;margin-top: -542px;}
+.menu-color{ background-color: #a3eed3; margin-left: 1%; margin-top: 1%; margin-right: 1%; margin-bottom:0.5%; border: solid black; border-radius: 10px; text-align: center;}
+a{ text-decoration: none; color: black; font-size: 30px; font-family: 'Odibee Sans', cursive}
+a:hover{ color: black;}
+.menu-color:hover{background-color: yellow;}
+body{ background-color: lightgreen; width: 1.0;}
+.different-websites{ text-align: center; margin-left: 352px; position:absolute; font-size: 25px;
+                    border: solid black; width:800px; position: absolute; background-color: #fff2a7; margin-top:20px}
+.tab { text-indent:40px;}
+h2{ background-color:#faf89d; width:800px; margin-left:352px; position: absolute; border: solid black; border-bottom: none; text-align: center;font-family: 'Anton', sans-serif; font-size: 40px;}
+.first-paragraph {background-color:#faf89d; width:800px; margin-left:352px; position: relative; border:solid black; border-top: none; margin-top: 95px; font-size: 20px; font-family: 'Merriweather', serif;}
